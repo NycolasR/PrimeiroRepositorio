@@ -1,5 +1,5 @@
 # Harry Potter Repository
 
-![hp.jpg](HOGWARTS)
+![HOGWARTS](hp.jpg)
 
 Este repositório serve de exemplo para o curso de Git e GitHub
