@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 .prpoject
 
 node_modules/
 bower_components/
 
 **/*.css
+=======
+/.project
+>>>>>>> novaBranch
